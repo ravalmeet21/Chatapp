@@ -95,18 +95,15 @@ JWT_SECRET=your_secret_key
 
 Start the backend:
 
-npm start
-# or
 npm run dev
 
-Frontend Setup
+Frontend Setup:
 
 cd frontend
 npm install
 
 Start the frontend:
-npm start
-# or
+
 npm run dev
 
 
